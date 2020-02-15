@@ -1,0 +1,242 @@
+<html><head>
+
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+
+		<meta name="generator" content="war babies site"><title>Warbabies Project</title>
+
+		
+
+		<csactions></csactions>
+
+			<csaction name="4FD41C91" class="Netscape CSS Fix" type="onload"></csaction>
+
+		
+
+		<csactionitem name="4FD41C91"></csactionitem>
+
+		<csscriptdict import=""></csscriptdict>
+
+			<script src="../index_files/CSScriptLib"></script>
+
+		
+
+		<csactiondict></csactiondict>
+
+			<script><!--
+
+CSInit[CSInit.length] = new Array(CSNSFix);
+
+
+
+// --></script>
+
+		
+
+		<link href="../index_files/main.css" rel="styleSheet" type="text/css">
+
+		<csimport user="../athenscourt.data/Components/bottom_nav.html" occur="0"></csimport>
+
+		<csimport user="../athenscourt.data/Components/id_bar.html" occur="0"></csimport></head>
+
+
+
+	<body onload="CSScriptInit();" bgcolor="gray">
+
+		<table cool="" gridx="10" showgridx="" usegridx="" gridy="10" showgridy="" usegridy="" border="0" cellpadding="0" cellspacing="0" height="511" width="924">
+
+			<tbody><tr height="2">
+
+				<td height="2" width="908"></td>
+
+				<td height="2" width="16"><spacer type="block" height="2" width="1"></td>
+
+			</tr>
+
+			
+
+			<tr height="508">
+
+				<td xpos="0" align="left" height="508" valign="top" width="908">
+
+					<table bgcolor="white" border="0" cellpadding="0" cellspacing="0" width="902">
+
+						<tbody><tr height="100" valign="top">
+
+							<td colspan="2" align="center" bgcolor="#2f2714" height="100"><csobj w="606" h="106" t="Component" csref="../athenscourt.data/Components/id_bar.html" occur="0">
+
+									</csobj>
+
+                <table border="0" cellpadding="0" cellspacing="0" height="100" width="633">
+
+                  <tbody>
+
+                    <tr height="80"> 
+
+                      <td colspan="5" height="80">&nbsp;</td>
+
+                    </tr>
+
+                    <tr height="20"> 
+
+                      <td bgcolor="black" height="20" nowrap="nowrap" width="111"> 
+
+                        <center>
+
+                          <a href="http://www.athensmunicipalcourt.com/index.html"><font face="Arial, Helvetica, sans-serif">HOME</font></a> 
+
+                        </center></td>
+
+                      <td bgcolor="#2f2714" height="20" nowrap="nowrap" width="120"> 
+
+                        <center>
+
+                          <font face="Arial, Helvetica, sans-serif"><a href="http://www.athensmunicipalcourt.com/dept.html">DEPARTMENTS</a></font></center></td>
+
+                      <td bgcolor="black" height="20" nowrap="nowrap" width="138"> 
+
+                        <center>
+
+                          <font face="Arial, Helvetica, sans-serif"><a href="http://docket.webxsol.com/athens/index.html">DOCKET 
+
+                          SEARCH</a></font></center></td>
+
+                      <td bgcolor="#2f2714" height="20" nowrap="nowrap" width="119"> 
+
+                        <center>
+
+                          <font face="Arial, Helvetica, sans-serif"><a href="http://www.athensmunicipalcourt.com/contact.html">CONTACT 
+
+                          INFO</a></font></center></td>
+
+                      <td bgcolor="black" height="20" nowrap="nowrap" width="125"> 
+
+                        <center>
+
+                          <font face="Arial, Helvetica, sans-serif"><a href="http://www.athensmunicipalcourt.com/links.html">LINKS</a></font></center></td>
+
+                    </tr>
+
+                  </tbody>
+
+                </table>
+
+								</td>
+
+						</tr>
+
+						<tr height="5" valign="top">
+
+							<td colspan="2" bgcolor="#4d3f22" height="5"><br>
+
+							</td>
+
+						</tr>
+
+						<tr height="300">
+
+							
+
+              <td width="746" height="300" valign="top" bgcolor="#eed3be">
+
+								<div align="left">
+
+									<p class="hpadding"><b>About Us </b></p>
+
+								</div>
+
+								<div class="textpadding">
+
+									<p><font color="black"><script language="javascript" src="menu.js"></script> </font></p>
+
+								</div>
+
+							</td>
+
+							<td width="746" height="300" valign="top" bgcolor="#eed3be">
+
+								<div align="left">
+
+									<p class="hpadding"><b>About Us </b></p>
+
+								</div>
+
+								<div class="textpadding">
+
+									<p><font color="black">Welcome
+
+to the Athens County Municipal Court website. This site was created to
+
+help any who seek information on the functions of the court. Also
+
+included in the site is a DOCKET&nbsp;SEARCH feature that allows users
+
+to look up court records of cases that have appeared in our court. The
+
+DEPARTMENTS section displays information regarding Civil/Small Claim
+
+Procedures and the Court's probation programs. </font></p>
+
+								</div>
+
+							</td>
+
+						</tr>
+
+						<tr height="50">
+
+							<td colspan="2" bgcolor="#6d2620" height="50"><br>
+
+							</td>
+
+						</tr>
+
+						<tr>
+
+							<td colspan="2" bgcolor="#2f2714"><csobj w="606" h="26" t="Component" csref="../athenscourt.data/Components/bottom_nav.html" occur="0">
+
+									</csobj><center>
+
+										<table marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" bgcolor="#2f2714" border="0" cellpadding="0" cellspacing="0" height="20" width="534">
+
+											<tbody><tr height="20">
+
+												<td height="20" width="463">
+
+													<center>
+
+														
+
+														| <a href="http://www.athensmunicipalcourt.com/index.html">HOME</a> | <a href="http://www.athensmunicipalcourt.com/dept.html">DEPARTMENTS</a> | <a href="http://docket.webxsol.com/athens/index.html">DOCKET SEARCH </a>| <a href="http://www.athensmunicipalcourt.com/contact.html">CONTACT INFO</a> | <a href="http://www.athensmunicipalcourt.com/links.html">LINKS</a> |</center>
+
+												</td>
+
+											</tr>
+
+										</tbody></table>
+
+									</center>
+
+								</td>
+
+						</tr>
+
+					</tbody></table>
+
+				</td>
+
+				<td height="508" width="16"><spacer type="block" height="508" width="1"></td>
+
+			</tr>
+
+			<tr cntrlrow="" height="1">
+
+				<td height="1" width="908"><spacer type="block" height="1" width="624"></td>
+
+				<td height="1" width="16"></td>
+
+			</tr>
+
+		</tbody></table>
+
+	</body></html>
+
